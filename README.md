@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋 I am **Maria Bouzitou**
 
-<!--
-**minou-sysBM/minou-sysBM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Content de vous voir ici!
 
-Here are some ideas to get you started:
+Developpeur web formée sans le cadre de D-Clic projet de l'OIF.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🐱‍🏍 À propos de moi:
+
+Bienvenue sur une partie de ma vie sur internet, je suis un apprentit Développeur et j'aspire à faire carrière dans le développement web en travaillant sur des projets à fort impact au Congo et dans le monde entier.
+
+N'hésitez pas à prendre contact avec .[moi](#) pour tout ce qui touche à la technologie ou pour dire bonjour ! Façonnant ensemble l'avenir de la tech.😍
+
+∑ **Tech Stack  :**
+- **Langages** : HTML, CSS, Javascript
+- **Framework & outils** : Tailwind CSS, Flutter, FlutterFlow
+- **Design & UI/UX** : Figma
+- **Versioning** : Git & GitHub
+
+## 😊 Me contacter :
+📧 mail: benedictmariebooz@gmail.com
